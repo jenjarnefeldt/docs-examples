@@ -1,2 +1,3 @@
 # docs-examples
-Examples for Source Control Docs
+Use this repo for Source Control documentation examples. 
+
