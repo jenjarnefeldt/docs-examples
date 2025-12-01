@@ -1,0 +1,4 @@
+span[data-is-cell-contents="true"] {
+  white-space: wrap !important;
+}
+

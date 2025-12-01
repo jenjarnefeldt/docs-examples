@@ -1,0 +1,36 @@
+{
+ "container1": {
+  "row": 0.4,
+  "height": 19.8,
+  "width": 6,
+  "stackPosition": {
+   "object": {
+    "ordinal": 0,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "latestVersion": {
+  "container": "upgradeContainer",
+  "subcontainer": "af809",
+  "height": 0.2,
+  "width": 6,
+  "stackPosition": {
+   "object": {
+    "ordinal": 3,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "searchInput": {
+  "container": "container1",
+  "rowGroup": "header",
+  "col": 8,
+  "height": 0.2,
+  "width": 4
+ }
+}

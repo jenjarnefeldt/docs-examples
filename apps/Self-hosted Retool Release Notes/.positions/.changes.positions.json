@@ -1,0 +1,500 @@
+{
+ "alert1": {
+  "container": "upgradeContainer",
+  "subcontainer": "af809",
+  "row": 3.8,
+  "height": 2.4,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 1,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "appNav": {
+  "container": "container9",
+  "subcontainer": "12aac",
+  "row": 0,
+  "height": 1,
+  "width": 5,
+  "stackPosition": {
+   "object": {
+    "ordinal": 2,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "changesTable": {
+  "container": "container7",
+  "subcontainer": "74264",
+  "row": 2.8,
+  "height": 1,
+  "width": 11,
+  "stackPosition": {
+   "object": {
+    "ordinal": 0,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "channelSelect": {
+  "subcontainer": "sidebarFrame1",
+  "row": 1.6,
+  "height": 0.2,
+  "width": 1,
+  "stackPosition": {
+   "object": {
+    "ordinal": 3,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "container1": {
+  "height": 58.6,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 0,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "container11": {
+  "subcontainer": "sidebarFrame1",
+  "row": 0.2,
+  "height": 0.2,
+  "width": 1,
+  "stackPosition": {
+   "object": {
+    "ordinal": 0,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "container12": {
+  "container": "releaseDetails",
+  "subcontainer": "f5330",
+  "row": 0.6,
+  "height": 3.8,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 0,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "container7": {
+  "container": "container1",
+  "subcontainer": "541d0",
+  "row": 0.4,
+  "height": 100.2,
+  "width": 11,
+  "stackPosition": {
+   "object": {
+    "ordinal": 0,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "container9": {
+  "subcontainer": "header",
+  "row": 0,
+  "height": 3.8,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 0,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "containerTitle1": {
+  "container": "upgradeContainer",
+  "rowGroup": "header",
+  "height": 0.6,
+  "width": 12
+ },
+ "containerTitle2": {
+  "container": "container12",
+  "rowGroup": "header",
+  "height": 0.6,
+  "width": 12
+ },
+ "digestHash": {
+  "container": "container12",
+  "subcontainer": "00030",
+  "row": 0.8,
+  "height": 0.6,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 1,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "digestHash2": {
+  "subcontainer": "sidebarFrame1",
+  "row": 1,
+  "height": 0.6,
+  "width": 1
+ },
+ "divider1": {
+  "container": "container12",
+  "subcontainer": "00030",
+  "height": 0.2,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 0,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "drawerCloseButton1": {
+  "rowGroup": "header",
+  "subcontainer": "helpDrawer",
+  "col": 9,
+  "height": 1
+ },
+ "drawerCloseButton3": {
+  "rowGroup": "header",
+  "subcontainer": "filterDrawer",
+  "col": 9,
+  "height": 1
+ },
+ "drawerTitle1": {
+  "rowGroup": "header",
+  "subcontainer": "helpDrawer",
+  "height": 0.6,
+  "width": 9
+ },
+ "drawerTitle2": {
+  "rowGroup": "header",
+  "subcontainer": "moreInfoDrawer",
+  "height": 0.6,
+  "width": 12
+ },
+ "drawerTitle4": {
+  "rowGroup": "header",
+  "subcontainer": "filterDrawer",
+  "height": 0.6,
+  "width": 9
+ },
+ "iconText1": {
+  "container": "upgradeNotice",
+  "rowGroup": "header",
+  "row": 0,
+  "height": 0.6,
+  "width": 12
+ },
+ "keyValue1": {
+  "container": "releaseDetails",
+  "subcontainer": "f5330",
+  "row": 0,
+  "height": 8.6,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 1,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "latestVersion": {
+  "rowGroup": "header",
+  "subcontainer": "sidebarFrame1",
+  "height": 12.6,
+  "width": 1,
+  "stackPosition": {
+   "object": {
+    "ordinal": 7,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "link1": {
+  "container": "upgradeNotice",
+  "subcontainer": "d8b70",
+  "row": 1.4,
+  "height": 0.6,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 2,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "listView1": {
+  "container": "container1",
+  "rowGroup": "header",
+  "subcontainer": "541d0",
+  "row": 0.6,
+  "height": 1,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 0,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "multiselect1": {
+  "subcontainer": "splitPaneFrame1",
+  "height": 2.4,
+  "width": 12
+ },
+ "prevReleaseDetails": {
+  "container": "container11",
+  "subcontainer": "f5330",
+  "height": 8.6,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 0,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "prevVersion": {
+  "rowGroup": "header",
+  "subcontainer": "sidebarFrame1",
+  "row": 1.8,
+  "height": 0.2,
+  "width": 1,
+  "stackPosition": {
+   "object": {
+    "ordinal": 3,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "releaseDetails": {
+  "subcontainer": "sidebarFrame1",
+  "row": 0,
+  "height": 0.2,
+  "width": 1,
+  "stackPosition": {
+   "object": {
+    "ordinal": 0,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "releaseWarning": {
+  "container": "listView1",
+  "height": 2.4,
+  "width": 12
+ },
+ "searchInput": {
+  "container": "container9",
+  "subcontainer": "12aac",
+  "row": 0,
+  "col": 8,
+  "height": 0.2,
+  "width": 4,
+  "stackPosition": {
+   "object": {
+    "ordinal": 1,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "segmentedControl1": {
+  "rowGroup": "footer",
+  "subcontainer": "sidebarFrame1",
+  "height": 0.8,
+  "width": 1
+ },
+ "tags2": {
+  "subcontainer": "moreInfoDrawer",
+  "row": 0.6,
+  "height": 0.8,
+  "width": 12
+ },
+ "tags3": {
+  "subcontainer": "helpDrawer",
+  "row": 1.2,
+  "height": 0.8,
+  "width": 12
+ },
+ "tags4": {
+  "subcontainer": "helpDrawer",
+  "row": 2.6,
+  "height": 0.8,
+  "width": 12
+ },
+ "text10": {
+  "container": "container11",
+  "rowGroup": "header",
+  "subcontainer": "f5330",
+  "height": 0.6,
+  "width": 12
+ },
+ "text11": {
+  "container": "releaseDetails",
+  "rowGroup": "header",
+  "subcontainer": "f5330",
+  "height": 0.6,
+  "width": 12
+ },
+ "text13": {
+  "container": "container12",
+  "subcontainer": "00030",
+  "row": 0.2,
+  "height": 0.6,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 2,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "text14": {
+  "subcontainer": "sidebarFrame1",
+  "row": 0.4,
+  "height": 0.6,
+  "width": 1
+ },
+ "text2": {
+  "subcontainer": "helpDrawer",
+  "height": 0.6,
+  "width": 12
+ },
+ "text4": {
+  "subcontainer": "helpDrawer",
+  "row": 0.6,
+  "height": 0.6,
+  "width": 12
+ },
+ "text5": {
+  "subcontainer": "helpDrawer",
+  "row": 2,
+  "height": 0.6,
+  "width": 12
+ },
+ "text6": {
+  "subcontainer": "moreInfoDrawer",
+  "height": 0.6,
+  "width": 12
+ },
+ "text7": {
+  "container": "upgradeNotice",
+  "subcontainer": "d8b70",
+  "row": 0,
+  "height": 0.6,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 0,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "upgradeContainer": {
+  "container": "container1",
+  "rowGroup": "header",
+  "subcontainer": "541d0",
+  "row": 0,
+  "height": 0.6,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 0,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "upgradeNotice": {
+  "container": "upgradeContainer",
+  "subcontainer": "af809",
+  "row": 0,
+  "height": 3.8,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 2,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "upgradePathSteps": {
+  "container": "upgradeNotice",
+  "subcontainer": "d8b70",
+  "row": 0.6,
+  "height": 1.6,
+  "width": 12,
+  "stackPosition": {
+   "object": {
+    "ordinal": 1,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ },
+ "useLive": {
+  "container": "container9",
+  "subcontainer": "12aac",
+  "col": 5,
+  "height": 0.6,
+  "stackPosition": {
+   "object": {
+    "ordinal": 0,
+    "widthType": "fixed",
+    "width": 0,
+    "height": 0
+   }
+  }
+ }
+}

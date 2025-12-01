@@ -1,0 +1,1 @@
+utils.copyToClipboard('https://docs.retool.com/releases/' +  channelSelect.value + '?channel=' +  channelSelect.value + '&latest=' + latestVersion.value + '&previous=' +  prevVersion.value)

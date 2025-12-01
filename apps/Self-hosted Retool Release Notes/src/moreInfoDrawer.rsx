@@ -1,0 +1,3 @@
+<DrawerFrame id="moreInfoDrawer" footerPadding="8px 12px" headerPadding="8px 12px" hidden={true} hideOnEscape={true} isHiddenOnMobile={true} overlayInteraction={true} padding="8px 12px" width="medium"><Header><Text id="drawerTitle2" value="###### {{ changesTable.selectedRow.title}}" verticalAlign="center" /></Header>
+<Body><Text id="text6" value={"{{ getChangelogFeed.data.items.filter(change => change.url === changesTable.selectedRow.url)[0].content_html.replace(/<figure[^>]*>.*?<\\/figure>|<img[^>]*>/gs, \"\").replace(/<div[^>]*>.*?<\\/div>/gs, \"\") }}"} verticalAlign="center" />
+<TagsWidget2 id="tags2" allowWrap={true} data="{{getChangelogFeed.data.items.filter(change => change.url === changesTable.selectedRow.url)[0].tags }}" /></Body></DrawerFrame>
